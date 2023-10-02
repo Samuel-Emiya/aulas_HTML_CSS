@@ -13,3 +13,10 @@
 .imagem_width {
     width: 400px;
 }
+
+.caixa_height {
+    border: 1px dashed #0f0;
+
+    height: 100px;
+    width: 100px;
+}
